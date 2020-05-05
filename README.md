@@ -1,11 +1,10 @@
 # Diabetes Prediction using Deep learning
 ## Dataset
-===
-**Source:** "[Raw Data](https://raw.githubusercontent.com/susanli2016/Machine-Learning-with-Python/master/diabetes.csv)"
+=======
+**Source:** [Raw Data](https://raw.githubusercontent.com/susanli2016/Machine-Learning-with-Python/master/diabetes.csv)
 
-**Description:**
+**Feature Description:**
 
-* *Features**
 * *Pregnancies*: Number of times pregnant
 * *Glucose*: Plasma glucose concentration over 2 hours in an oral glucose tolerance test
 * *BloodPressure*: Diastolic blood pressure (mm Hg)
@@ -21,11 +20,10 @@
 
 ## Model
 
-   A 4-Layered Deep Neural network is implemented. Normalized data is fed into the NN and using backpropagation the weights are adjusted to make the model learn.
+A 4-Layered Deep Neural network is implemented. Normalized data is fed into the NN and using backpropagation the weights are adjusted to make the model learn.
    
 
 ## Result
-===
 
 Accuracy on **train set**: 83%
 Accuracy on **test set**: 79%
