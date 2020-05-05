@@ -1,6 +1,5 @@
 # Diabetes Prediction using Deep learning
 ## Dataset
-=======
 **Source:** [Raw Data](https://raw.githubusercontent.com/susanli2016/Machine-Learning-with-Python/master/diabetes.csv)
 
 **Feature Description:**
